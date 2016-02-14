@@ -1,0 +1,58 @@
+@charset "utf-8";
+body
+{
+background-color:#63CEF1;
+}
+h1
+{
+	color:indigo;
+	text-align:center;
+	
+}
+
+#div1{
+	width:200px;
+	height:200px;
+	background-color:blue;
+	margin:15px;
+	padding:20px;
+}
+
+#div2{
+	width:120px;
+	height:150px;
+	background-color:indigo;
+	
+}
+
+.block{
+	width:20px;
+	height:19px;
+	background-color:#0000FF;
+	border:1px solid #309;
+	
+}
+
+.border{
+	border: 2px solid #6C0;
+}
+
+#jeez{
+	text-align:center;
+	color:white;
+}
+
+#html{
+	text-align:center;
+	color:white;
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	
+}
+
+
+
+
+
+
+
+
